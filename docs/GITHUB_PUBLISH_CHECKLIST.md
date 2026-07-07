@@ -14,6 +14,8 @@
 - [ ] 未提交 `uni-app/unpackage/` 构建产物
 - [ ] 文档中无个人云实例 URL、实例 ID、内网 IP
 
+- [ ] 演示截图无 Server 地址、API Key（`assets/mobile-pose-demo.png` 已复核）
+
 ## 3. 发布前扫描命令
 
 ```bash

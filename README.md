@@ -2,6 +2,11 @@
 
 基于 [ShutterMuse](https://github.com/lijayuTnT/ShutterMuse) 的 **Android 移动端扩展**：FastAPI 推理服务 + uni-app 客户端，支持 **构图** 与 **摆姿** 两个 Tab。
 
+<p align="center">
+  <img src="./assets/mobile-pose-demo.png" alt="摆姿模式运行效果" width="360">
+</p>
+<p align="center"><em>摆姿模式：绿色人形骨架 + AI 摆姿说明（真机截图）</em></p>
+
 ---
 
 ## 克隆后如何运行

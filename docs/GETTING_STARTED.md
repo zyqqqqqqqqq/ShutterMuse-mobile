@@ -1,6 +1,8 @@
-# ShutterMuse 移动端 — 克隆后运行指南
+基于 [ShutterMuse](https://github.com/lijayuTnT/ShutterMuse) 的 **Android 移动端扩展**：FastAPI 推理服务 + uni-app 客户端，支持 **构图** 与 **摆姿** 两个 Tab。
 
-本文档说明从 Git 拉取本项目后，如何启动 **推理服务（Server）** 与 **Android 客户端（uni-app）**，并完成联调。
+<p align="center">
+  <img src="../assets/mobile-pose-demo.png" alt="摆姿模式运行效果" width="360">
+</p>
 
 ---
 
