@@ -1,5 +1,5 @@
 # ShutterMuse uni-app 客户端
-
+纯ai生成做着玩的。
 <p align="center">
   <img src="../assets/mobile-pose-demo.png" alt="摆姿模式运行效果" width="360">
 </p>
