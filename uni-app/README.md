@@ -1,5 +1,10 @@
 # ShutterMuse uni-app 客户端
 
+<p align="center">
+  <img src="../assets/mobile-pose-demo.png" alt="摆姿模式运行效果" width="360">
+</p>
+<p align="center"><em>摆姿模式：绿色人形骨架 + AI 摆姿说明（真机截图）</em></p>
+
 HBuilderX 打开的 uni-app 工程，调用 `server/` 提供的构图与摆姿 API。
 
 > **首次使用请先阅读：** [`docs/GETTING_STARTED.md`](../docs/GETTING_STARTED.md)（克隆后完整运行步骤）
