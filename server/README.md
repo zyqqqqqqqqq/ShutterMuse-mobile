@@ -1,9 +1,10 @@
 # ShutterMuse Composition API Server
 
-FastAPI inference service for photographer-side composition guidance.
+FastAPI inference service for photographer-side composition guidance and subject-side pose recommendation.
+
+> **首次使用请先阅读：** [`docs/GETTING_STARTED.md`](../docs/GETTING_STARTED.md)（克隆后完整运行步骤）
 
 ## Inference backends
-
 | Backend | When to use | Requirements |
 |---------|-------------|--------------|
 | **Qwen-VL API** (recommended for no-GPU) | Set `DASHSCOPE_API_KEY` | 阿里云百炼 API key |

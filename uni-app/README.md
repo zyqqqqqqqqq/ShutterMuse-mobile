@@ -2,6 +2,8 @@
 
 HBuilderX 打开的 uni-app 工程，调用 `server/` 提供的构图与摆姿 API。
 
+> **首次使用请先阅读：** [`docs/GETTING_STARTED.md`](../docs/GETTING_STARTED.md)（克隆后完整运行步骤）
+
 ## 1. 配置服务器地址
 
 ```bash
