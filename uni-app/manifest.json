@@ -1,0 +1,26 @@
+{
+  "name": "ShutterMuse",
+  "appid": "__UNI__SHUTTERMUSE",
+  "description": "ShutterMuse 摄影构图指导",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "vueVersion": "3",
+  "app-plus": {
+    "distribute": {
+      "android": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+          "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.READ_EXTERNAL_STORAGE\"/>",
+          "<uses-permission android:name=\"android.permission.READ_MEDIA_IMAGES\"/>"
+        ],
+        "minSdkVersion": 21,
+        "usesCleartextTraffic": true
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": ""
+  }
+}
